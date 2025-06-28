@@ -82,10 +82,8 @@ FlappyBird/
 ---
 
 🎥 Gameplay Video
+https://github.com/aadyagupta44/Flappy-Bird/releases/tag/demovideo
 
-
-
----
 
 ---
 
